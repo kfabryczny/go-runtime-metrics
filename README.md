@@ -10,3 +10,6 @@ This library has a few optional flags it depends on. It won't be able to output 
 Once imported and running, you can expect a number of Go runtime metrics to be sent to statsd over UDP. An example of what this looks like:
 
 ![Dashboard Screenshot](/screenshot.png?raw=true)
+
+
+https://twitter.com/brianhatfield/status/634166123605331968?lang=en
